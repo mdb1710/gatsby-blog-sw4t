@@ -2,10 +2,10 @@
 templateKey: index-page
 title: So Wrong For That
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Who Is SoWrongForThat.Com?
 subheading: A blog that asks the all important question -- why
 mainpitch:
-  title: Who Is So Wrong For That
+  title: Welcome To Our Relaunch
   description: >-
     This blog takes a close look at what is going on in the world through the lens of common sense
 description: >-
