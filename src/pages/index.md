@@ -9,10 +9,7 @@ mainpitch:
   description: >-
     This blog takes a close look at what is going on in the world through the lens of common sense
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  SoWrongForThat (SW4T) will talk about all of the important...and silly topics in our culture both online and in the real world.
 intro:
   blurbs:
     - image: /img/coffee.png
