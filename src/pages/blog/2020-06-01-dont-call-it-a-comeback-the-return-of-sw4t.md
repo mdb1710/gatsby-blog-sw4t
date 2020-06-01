@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Don't Call It A Comeback - The Return of SW4T
 date: 2020-06-01T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/sw4t.jpg
 description: Bringing SoWrongForThat.com back from quarantine
 tags:
   - blog
