@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: So Wrong For That
-image: /img/home-jumbotron.jpg
+image: /img/rooting.jpg
 heading: Who Is SoWrongForThat.Com?
 subheading: A blog that asks the all important question -- why
 mainpitch:
