@@ -37,4 +37,5 @@ https://twitter.com/joshuachenault1/status/1268656754042249217
 
 https://twitter.com/RonFunches/status/1268630963229085696
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Al Sharpton giving a shout out to Tiffany Haddish during a funeral is the blackest thing I’ve ever seen and I love it.</p>&mdash; Ronald Funches (@RonFunches) <a href="https://twitter.com/RonFunches/status/1268630963229085696?ref_src=twsrc%5Etfw">June 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
