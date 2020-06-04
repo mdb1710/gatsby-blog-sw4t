@@ -1,34 +1,40 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-featuredpost: true
+title: 'Get Your Friend: Tiffany Haddish and George Floyd's Funeral'
+date: 2017-06-04T15:04:10.000Z
+featuredpost: false
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Tiffany Haddish showed out at George's Floyd funeral when she didn't get a shoutout as a celebrity attendee
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - tiffany haddish
+  - al sharpton
+  - george floyd
+  - black lives matter
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Today the family of George Floyd said their official goodbyes today at a public funeral in Minnesota.  The family was kind enough to live stream the service for all of us to see.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+We at SW4T know that certain traditions happen at black funerals...but celebrity shoutouts isn't one of them.
 
-## A little history
+## So What Happened...
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+ North Central University was the center of attention today because of the funeral. Beside family and friends of Floyd a lot of black celebrites made an appearance. Here is a list that we know of so far: 
+ - Kevin Hart,
+ - Ludacris, 
+ - T.I. & Tiny
+ - Tyrese Gibson
+ - Master P 
+ - Will Packer
+ - Reverend Jesse Jackson
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+ However most of the attention went to Rev. Al Sharpton when he did the celebrity rollcall and forgot to mention Tiffany Haddish.  She wasn't having any of that so she made it known to Rev Al (and of course the Floyd family who the funeral was actually for) she was there IN PERSON to share her condolences. The Rev even invited her on stage to say a few words.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## What We Said...
 
-## What you need to know before trying
+Twitter of course saw her shoutout as disrespect rather than the lack of her adknowledgement. Here are some of the best reactions:
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+https://twitter.com/joshuachenault1/status/1268656754042249217
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+https://twitter.com/RonFunches/status/1268630963229085696
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+
