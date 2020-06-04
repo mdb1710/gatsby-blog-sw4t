@@ -1,6 +1,6 @@
 ---
 templateKey: 'blog-post'
-title: 'Get Your Friend: Tiffany Haddish and George Floyd's Funeral'
+title: Get Your Friend - Celeb Shoutouts At George Floyd's Funeral
 date: 2020-06-04T15:04:10.000Z
 featuredpost: false
 description: >-
