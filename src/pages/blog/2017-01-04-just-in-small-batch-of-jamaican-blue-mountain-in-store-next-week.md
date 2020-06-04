@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Get Your Friend: Tiffany Haddish and George Floyd's Funeral'
-date: 2017-06-04T15:04:10.000Z
+date: 2020-06-04T15:04:10.000Z
 featuredpost: false
 description: >-
   Tiffany Haddish showed out at George's Floyd funeral when she didn't get a shoutout as a celebrity attendee
