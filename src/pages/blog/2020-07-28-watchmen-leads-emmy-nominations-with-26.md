@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: Watchmen Leads 2020 Emmy Nominations With 26
 date: 2020-07-15T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/nickcannon.jpeg
+featuredimage: /img/watchmen.jpg
 description: >-
   the 2020 Emmy noms were announced and HBO's Watchmen is the show to beat
 tags:
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-![Emmys 2020](/img/nickcannon.jpeg)
+![Emmys 2020](/img/watchmen.jpg)
 
 With everything going on in the world it would seem that no one would care about award shows anymore.  Despite all of the social distancing there is a lot of real life unscripted excitement all over the country.
 
