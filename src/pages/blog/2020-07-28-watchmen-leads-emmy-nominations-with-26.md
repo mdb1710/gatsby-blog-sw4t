@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Watchmen Leads 2020 Emmy Nominations With 26
-date: 2020-07-15T15:04:10.000Z
+date: 2020-07-28T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/watchmen.jpg
 description: >-
