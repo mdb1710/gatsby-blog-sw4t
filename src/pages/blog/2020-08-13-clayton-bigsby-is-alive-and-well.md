@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: Clayton Bigsby Is Alive And Well
-date: 2020-08-04T15:04:10.000Z
+date: 2020-08-13T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/clayton.jpg
 description: >-
@@ -70,4 +70,4 @@ Needless to say the discovery of a real-life Clayton Bigsby didn't go well on th
 
 ## The Response
 
-Right now there has been no response from Trump about his 'Black Americans' quote.  Of course we will update this post if and when the President or the company takes action.
+We will update this post if and when Mr Bigsby responds to the smoke.
