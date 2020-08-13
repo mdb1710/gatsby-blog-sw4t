@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: Clayton Bigsby Is Alive And Well
 date: 2020-08-04T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/trump.png
+featuredimage: /img/clayton.jpg
 description: >-
   trump believes he has done the most for black americans
 tags:
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![Real Life Clayton Bigsby](/img/trump.png)
+![Real Life Clayton Bigsby](/img/clayton.jpg)
 
 Ok so a little confession....
 
