@@ -58,17 +58,22 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout>
+    <Layout slug={data.markdownRemark.fields.slug}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
+          <Helmet titleTemplate='%s | Blog'>
             <title>{`${post.frontmatter.title}`}</title>
             <meta
-              name="description"
+              name='description'
               content={`${post.frontmatter.description}`}
+            />
+            <meta name='twitter:card' content='summary_large_image' />
+            <meta
+              name='twitter:image'
+              content={`${data.site.siteMetadata.siteUrl}${slug}twitter-card.jpg`}
             />
           </Helmet>
         }
@@ -76,7 +81,7 @@ const BlogPost = ({ data }) => {
         title={post.frontmatter.title}
       />
     </Layout>
-  )
+  );
 }
 
 BlogPost.propTypes = {
