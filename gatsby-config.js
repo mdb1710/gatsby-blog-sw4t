@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'So Wrong For That -- A blog for us by us about everyone else',
+    siteUrl: 'http://sowrongforthat.com',
     description:
       'This blog takes a close look at what is going on in the world through the lens of common sense',
   },
@@ -36,6 +37,7 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
+          'gatsby-remark-social-cards',
           {
             resolve: 'gatsby-remark-relative-images',
             options: {
@@ -75,4 +77,4 @@ module.exports = {
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
-}
+};
