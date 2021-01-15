@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: Plies Has A New Smile For The New Year
 date: 2021-01-15T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/megan.jpeg
+featuredimage: /img/plies.jpeg
 description: >-
   rapper plies shows off his new smile without his grill on social media and people have strong feeling about it.
 tags:
@@ -14,69 +14,32 @@ tags:
 
 ---
 
-![Megan Thee Stallion](img/megan.jpg)
+![Megan Thee Stallion](img/plies.jpg)
 
-
-It is only the second day in December
+So the new year has gotten off to a good start despite all of the craziness that has happened in DC since 2021 began.  Georgia officially became an all-blue state and rioters officially tried to stop the official certification of President Elect Joe Biden.  Fortunately things have calmed down politically for the moment and we can concentrate on more relevant matters -- like Plies' teeth.
 
 
 ## So What Happened...
 
-So just in case you forgot what happened here is Megan in her own words....
+Rapper Plies is mostly known for two things - his flow and his grill.  His grill is not as famous as Paul Wall's but it has been a part of his signature look for years.  Now the new year has left the grill behind in the chaos wake of 2020.  Instead he has a new smile and a new outlook on life
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I Just Showed My Mom My New Smile. She Hugged Me Started Crying &amp; Said “I Finally Got My Baby Back”. One Of The Proudest Days Of My Life. 2021 I’m Might Just Turn Into A Full Time Brand Ambassador With This New Smile😬 No Coochie Gettin Ate With These 🦷 😂 (Ladies) How Did I Do? <a href="https://t.co/tPRXXpS8Nq">pic.twitter.com/tPRXXpS8Nq</a></p>&mdash; Plies (@plies) <a href="https://twitter.com/plies/status/1350083821954355200?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Megan Thee Stallion confirms that Tory Lanez shot her while she was trying to walk away after an argument. He’s done. <a href="https://t.co/sqpTAY2pmQ">pic.twitter.com/sqpTAY2pmQ</a></p>&mdash; Ronald Isley (@yoyotrav) <a href="https://twitter.com/yoyotrav/status/1296626815440760833?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-“Yes ... Tory shot me. You shot me and you got your publicist and your people going to these blogs lying,” Megan said in her video to Tory. “Stop lying. Why lie? I don’t understand.”
-
-She had recovered from the shooting but in multiple interviews has all but denied that Lanez was the person who shot her twice in the foot.  She is not denying it anymore even though her initial reasons had to do with possible legal reprecussions.
-
-“I didn’t tell the police nothing because I didn’t want us to get in no more trouble,” she said later in the IG live.
-
-Of course Tory Lanez' team is not commenting about the IG live and his legal team is probably advising him to keep quiet. Although the actual shooting is still under investigation Lanez was arrested on suspicion of possession of a concealed weapon the night of the shooting.  He was released on bail but hasn't met in court about that case.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lie one more time and ima quit sparing you</p>&mdash; HOT GIRL MEG (@theestallion) <a href="https://twitter.com/theestallion/status/1296619905777692674?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-This confession by Megan and the outrage on Twitter doesn't do him any favors.
-
-One week after the release of Lanez' new album , the LAPD officially gave Lanez two felony charges: assault with a semiautomatic firearm and carrying a loaded, unregistered firearm in a vehicle. Of course the rapper plans to plead 'not guilty' at his arrainment but that hasn't stopped both his fans and his haters from commenting on the recent charges. 
+We are happy for Plies and his new teeth (even though no new music has came from him yet) and it seems the rest of the internet is happy for him too.
 
 ## What We Said...
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tory Lanez getting out of jail in 2042: <a href="https://t.co/h78h4gik5g">pic.twitter.com/h78h4gik5g</a></p>&mdash; ﾑｷﾚのW ➐ (@worldwideaflow) <a href="https://twitter.com/worldwideaflow/status/1314600612756037637?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A few years back I started the hashtag <a href="https://twitter.com/hashtag/BoycottPlies?src=hash&amp;ref_src=twsrc%5Etfw">#BoycottPlies</a> because he used to get on my last nerves and I couldn&#39;t stand that one song. Well... today, I noticed his gold teeth gone. Also noticed he fine as hell so this my public apology to his fine ass. <a href="https://twitter.com/plies?ref_src=twsrc%5Etfw">@plies</a> We good now. <a href="https://t.co/V97iIDR0p4">pic.twitter.com/V97iIDR0p4</a></p>&mdash; The BadaBOOMbadaBING (@ChanelleSimone) <a href="https://twitter.com/ChanelleSimone/status/1350144680537702400?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">plies got them new teeth now watch he be a political commentator for next presidential election</p>&mdash; Thirty Jesus Pieces (@IsiahaSaid) <a href="https://twitter.com/IsiahaSaid/status/1350087688788078592?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plies is the only man I’ve seen that is more handsome without the grill/gold TO ME. <a href="https://t.co/OIfNx5DTmi">https://t.co/OIfNx5DTmi</a></p>&mdash; Supernova Momma (@SupernovaMomma) <a href="https://twitter.com/SupernovaMomma/status/1350091177933074440?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plies really trynna be Chip Skylark <a href="https://t.co/2X7xnW7OEo">pic.twitter.com/2X7xnW7OEo</a></p>&mdash; sleaze⛄️ (@itbesleazy) <a href="https://twitter.com/itbesleazy/status/1350103959252381701?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Plies always looked good to me but now that he removed those golds..... 😩🥴 <a href="https://t.co/Jqj55kMAx3">pic.twitter.com/Jqj55kMAx3</a></p>&mdash; BELLINI BLU PETTY💙🍸 (@jaleeldukes) <a href="https://twitter.com/jaleeldukes/status/1350109419070234626?ref_src=twsrc%5Etfw">January 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kehlani removes Tory Lanez’s verse from “Can I” and replaces it with another solo verse. <a href="https://t.co/aLUSUrce7G">pic.twitter.com/aLUSUrce7G</a></p>&mdash; Rap Alert (@rapalert2) <a href="https://twitter.com/rapalert2/status/1314801675530653697?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tory lanez cellmate when they get into an argument <a href="https://t.co/egL7OuSc0D">https://t.co/egL7OuSc0D</a></p>&mdash; Bungowungo (@3000_perc) <a href="https://twitter.com/3000_perc/status/1315661620996169730?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How many years Tory Lanez got? <a href="https://t.co/3XAI9WU7Gp">pic.twitter.com/3XAI9WU7Gp</a></p>&mdash; tahjá 安详 (@tahjaserene) <a href="https://twitter.com/tahjaserene/status/1314600490425081856?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tory Lanez getting out of jail in 2042: <a href="https://t.co/h78h4gik5g">pic.twitter.com/h78h4gik5g</a></p>&mdash; ﾑｷﾚのW ➐ (@worldwideaflow) <a href="https://twitter.com/worldwideaflow/status/1314600612756037637?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">everyone keeps saying this is gonna be Tory Lanez in prison😭 <a href="https://t.co/dmRfgSxv5n">pic.twitter.com/dmRfgSxv5n</a></p>&mdash; 999 (@moisesxaguilar) <a href="https://twitter.com/moisesxaguilar/status/1314552578953289728?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tory Lanez making an entire album to discredit Megan, only to get arrested a week later is ..... embarrassing <a href="https://t.co/lglWlNlCrC">pic.twitter.com/lglWlNlCrC</a></p>&mdash; jags (@jagansss) <a href="https://twitter.com/jagansss/status/1314637919852822531?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">R. Kelly and Tory Lanez In the annual Prison talent show 🤣 <a href="https://t.co/EH3hyv90Dd">pic.twitter.com/EH3hyv90Dd</a></p>&mdash; Zhu Lí 😈 (@AMPARADOXXX) <a href="https://twitter.com/AMPARADOXXX/status/1314926162343321602?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Can you play some Tory Lanez” <a href="https://t.co/Q4bPZLqKKW">pic.twitter.com/Q4bPZLqKKW</a></p>&mdash; Mutie✨ (@PeterMutie_) <a href="https://twitter.com/PeterMutie_/status/1315009242051612679?ref_src=twsrc%5Etfw">October 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I can <a href="https://t.co/DccJJiemt1">pic.twitter.com/DccJJiemt1</a></p>&mdash; aïsha ✨ (@itsabiyo_) <a href="https://twitter.com/itsabiyo_/status/1314621820067344396?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You said you was drunk, do you even know the truth? 💀 <a href="https://t.co/ExM97Xov7a">pic.twitter.com/ExM97Xov7a</a></p>&mdash; King Juwan (@KingTrillaX) <a href="https://twitter.com/KingTrillaX/status/1314619591193251840?ref_src=twsrc%5Etfw">October 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## The Response
-
-We will update once the case moves forward.
 
 
